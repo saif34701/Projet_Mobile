@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_reservation.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_reservation.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_driver_ride.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_driver_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_ride.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_line.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_driver_rides.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_driver_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_my_reservations.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_my_reservations.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_row.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\item_ride_reservation.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\item_ride_reservation.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_ride_reservations.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_ride_reservations.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_line_detail.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_line_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_ride_search.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_ride_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_ride_form.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_ride_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_lines.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\dialog_reserve.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\dialog_reserve.xml"
+    },
+    {
+        "merged": "com.covoitall.mobile.app-mergeDebugResources-44:/layout/activity_driver_rides.xml",
+        "source": "com.covoitall.mobile.app-main-47:/layout/activity_driver_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-mergeDebugResources-44:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\saifr\\.gradle\\daemon\\8.12\\com.covoitall.mobile.app-main-47:\\layout\\activity_profile.xml"
+    }
+]

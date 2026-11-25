@@ -1,0 +1,33 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Requis par osmdroid pour vérifier l'état du réseau avant de télécharger les tuiles. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".CovoitallApp"
+        android:allowBackup="true"
+        android:label="COVOIT'ALL"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Covoitall"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.auth.LoginActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".ui.auth.RegisterActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".ui.profile.ProfileActivity" android:exported="false" />
+        <activity android:name=".ui.lines.LinesActivity" android:exported="false" />
+        <activity android:name=".ui.lines.LineDetailActivity" android:exported="false" />
+        <activity android:name=".ui.rides.RideSearchActivity" android:exported="false" />
+        <activity android:name=".ui.rides.MyReservationsActivity" android:exported="false" />
+        <activity android:name=".ui.driver.DriverRidesActivity" android:exported="false" />
+        <activity android:name=".ui.driver.RideFormActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".ui.driver.RideReservationsActivity" android:exported="false" />
+    </application>
+</manifest>
